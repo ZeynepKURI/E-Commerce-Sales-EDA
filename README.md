@@ -83,12 +83,12 @@
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/e-commerce-sales-eda.git
-2. Install the required libraries:
- ```bash
-   pip install -r requirements.txt
-3. Open the Jupyter Notebook:
- ```bash
- jupyter notebook e-commerce-sales-eda.ipynb
+
+2. install the required libraries, and open the Jupyter Notebook with the following commands:
+```bash
+pip install -r requirements.txt  
+jupyter notebook e-commerce-sales-eda.ipynb
+
 
 
 
